@@ -1,0 +1,24 @@
+{
+  "name": "web3providerwrapper",
+  "version": "1.0.0",
+  "description": "A web3 wrapper to help you build your dapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xavivives/web3ProviderWrapper.git"
+  },
+  "keywords": [
+    "ethereum",
+    "web3",
+    "provider"
+  ],
+  "author": "Xavi Vives <xavings@gmail.com> (http://xavivives.com/index)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/xavivives/web3ProviderWrapper/issues"
+  },
+  "homepage": "https://github.com/xavivives/web3ProviderWrapper#readme"
+}
