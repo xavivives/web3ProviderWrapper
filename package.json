@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/xavivives/web3ProviderWrapper/issues"
   },
-  "homepage": "https://github.com/xavivives/web3ProviderWrapper#readme"
+  "homepage": "https://github.com/xavivives/web3ProviderWrapper#readme",
+  "dependencies": {
+    "web3": "^0.20.6"
+  }
 }
