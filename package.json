@@ -1,6 +1,6 @@
 {
   "name": "web3providerwrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A web3 wrapper to help you build your dapp",
   "main": "index.js",
   "scripts": {
