@@ -1,1 +1,1 @@
-exports.Wrapper = require('./src/Wrapper.js');
+exports.Wrapper = require('./src/wrapper.js');
